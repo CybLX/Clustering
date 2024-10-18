@@ -3,8 +3,6 @@
 ## Overview
 This project explores various clustering techniques and supervised learning applied to the analysis of team performance in the World Cup. The methodologies covered include K-Means, DBSCAN, K-Nearest Neighbors, Gaussian Mixture Models (GMM), and Agglomerative Clustering.
 
-Here’s the corrected section for the **Dataset Features** in English, formatted similarly to the previous response:
-
 ## Dataset Features
 The dataset used in this project contains information such as:
 
@@ -53,4 +51,3 @@ For more information, codes, tutorials, and exciting projects, visit the links b
 - Email: alves_lucasoliveira@usp.br
 - GitHub: [cyblx](https://github.com/cyblx)
 - LinkedIn: [Cyblx](https://www.linkedin.com/in/cyblx)
-```
