@@ -32,7 +32,7 @@ The main objective of this project is to apply clustering techniques to gain a b
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/LUA-AL/clustering-techniques.git
+   git clone https://github.com/cyblx/clustering.git
    ```
 
 2. Install the required libraries:
